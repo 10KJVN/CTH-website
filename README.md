@@ -1,1 +1,1 @@
-#website voor CTH
+# website programmeervaardigheid
