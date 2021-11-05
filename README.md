@@ -1,3 +1,3 @@
 # website programmeervaardigheid
 
-file:///C:/Users/Jahva/MA/f1m1/pvaardig/cthwebsite/Cheatsheat/index.html
+https://33427.hosts1.ma-cloud.nl/
